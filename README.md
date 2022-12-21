@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArteagaDev
 - 👀 I’m interested in hardware-mechanical keyboard and DevOps.⌨️
-- 🌱 I’m currently learning about js✌️
+- 🌱 I’m currently learning about js, terraform and K8s.✌️
 - 💞️ I’m looking to collaborate with us
 - 📫 How to reach me -> Christ Se in Ig, tw & YouTube
 
